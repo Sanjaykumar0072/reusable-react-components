@@ -1,0 +1,42 @@
+[
+        {
+            "id": 0,
+            "data": [
+                { "id": 0, "label": "Male" },
+                { "id": 1, "label": "Female" }
+            ],
+            "placeholder": "Gender",
+            "defaultItem": { "id": 0, "label": "Male" }
+        },
+        {
+            "id": 1,
+            "data": [
+                { "id": 0, "label": "Web Developer" },
+                { "id": 1, "label": "Software Engineer" },
+                { "id": 2, "label": "Software Developer" },
+                { "value": "Web Developer", "label": "Web Developer" },
+                { "value": "Software Engineer", "label": "Software Engineer" },
+                { "value": "Software Developer", "label": "Software Developer" },
+                { "value": "Front End Developer", "label": "Front End Developer" },
+                { "value": "Network Engineer", "label": "Network Engineer" },
+                { "value": "Entry Level Software Developer", "label": "Entry Level Software Developer" },
+                { "value": "Java Developer", "label": "Java Developer" },
+                { "value": "Entry Level Software Engineer", "label": "Entry Level Software Engineer" },
+                { "value": "IOS Developer", "label": "IOS Developer" },
+                { "value": "Junior Web Developer", "label": "Junior Web Developer" },
+                { "value": "SQL Developer", "label": "SQL Developer" },
+                { "value": "Junior Developer", "label": "Junior Developer" },
+                { "value": "Entry Level Web Developer", "label": "Entry Level Web Developer" },
+                { "value": "Android Developer", "label": "Android Developer" },
+                { "value": "Salesforce Developer", "label": "Salesforce Developer" },
+                { "value": ".NET Developer", "label": ".NET Developer" },
+                { "value": "Python Developer", "label": "Python Developer" },
+                { "value": "Game Developer", "label": "Game Developer" },
+                { "value": "Programmer", "label": "Programmer" },
+                { "value": "Data Engineer", "label": "Data Engineer" }
+            ],
+            "placeholder": "Position",
+            "defaultItem": { "id": 0, "label": "Web Developer" }
+        }
+    ]
+    
